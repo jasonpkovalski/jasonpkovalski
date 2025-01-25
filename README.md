@@ -1,11 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on:
-  - back-end and infrastructure at Salesforce
-  - stock screener web application
+  - Cofounder and CTO at Pocket Bard
 - 🌱 I’m currently learning:
-  - Rust
-  - Kubernetes
-  - Redis
-  - TypeScript
-  - React
+  - Cross-Platform Application Development
+  - Web Development
